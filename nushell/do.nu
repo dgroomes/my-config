@@ -109,6 +109,12 @@ const config_registry = {
         install_success_msg: "Git work trees lib file installed."
         upstream_success_msg: "Git work trees lib file backed upstreamed."
     }
+    zo: {
+        filename: "scripts/zo-module.nu"
+        backup_success_msg: "'zo' module file backed up."
+        install_success_msg: "'zo' module file installed."
+        upstream_success_msg: "'zo' module file upstreamed."
+    }
     zoxide: {
         filename: "vendor/autoload/zoxide.nu"
         backup_success_msg: "zoxide configuration file backed up."

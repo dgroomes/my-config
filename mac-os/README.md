@@ -65,7 +65,7 @@ to a working Nushell environment, but it's great enough.
       brew install dgroomes/my-software/my-open-jdk@21
       brew install dgroomes/my-software/my-open-jdk@25
       brew install dgroomes/my-software/my-node@20
-      brew install dgroomes/my-software/my-node@23
+      brew install dgroomes/my-software/my-node@24
       brew install dgroomes/my-software/my-gradle
       ```
 8. Install Bash
@@ -410,4 +410,8 @@ to a working Nushell environment, but it's great enough.
 46. Install [Tart](https://github.com/cirruslabs/tart)
     - ```nushell
       brew install cirruslabs/cli/tart
+      ```
+47. Install [Zowe CLI](https://docs.zowe.org/stable/user-guide/cli-installcli/)
+    - ```nushell
+      npm install --global @zowe/cli@zowe-v3-lts
       ```

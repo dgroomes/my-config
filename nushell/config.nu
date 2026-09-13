@@ -58,6 +58,7 @@ use open-jdk.nu *
 use postgres.nu *
 use work-trees.nu *
 use zdu.nu *
+use zo-module.nu *
 use subject.nu *
 use my-dir.nu *
 use nutest *
